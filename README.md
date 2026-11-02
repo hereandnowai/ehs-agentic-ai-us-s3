@@ -1,6 +1,6 @@
 # EHS Agentic AI — US S3
 
-**By [Ruthran Raghavan](https://github.com/ruthranraghavan)**
+**By [Ruthran Raghavan](https://ruthranraghavan.com)** · Chief AI Scientist
 
 ---
 
@@ -22,4 +22,7 @@ MIT — see [LICENSE](LICENSE).
 
 ## Author
 
-**Ruthran Raghavan** — [GitHub](https://github.com/ruthranraghavan)
+**Ruthran Raghavan** — Chief AI Scientist
+
+- Website: [ruthranraghavan.com](https://ruthranraghavan.com)
+- GitHub: [ruthranraghavan](https://github.com/ruthranraghavan)
